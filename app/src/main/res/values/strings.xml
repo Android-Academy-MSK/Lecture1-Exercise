@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">Exercise1</string>
+
+  <string name="input_hint">Type your message here…</string>
+  <string name="input_action_preview">Preview</string>
+  <string name="preview_action_email">Email</string>
+
+  <string name="email_address">andr.academy.msk@gmail.com</string>
+  <string name="email_subject">Hello, Android Academy MSK!</string>
+  <string name="error_no_email_app">No Email apps were found.</string>
+</resources>
