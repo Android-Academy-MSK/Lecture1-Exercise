@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">Домашка1</string>
+
+  <string name="input_hint">Введите сообщение…</string>
+  <string name="input_action_preview">Предпросмотр</string>
+  <string name="preview_action_email">Отправить</string>
+
+  <string name="email_subject">Привет, Android Academy MSK!</string>
+  <string name="error_no_email_app">На устройстве не нашлось почтовых клиентов</string>
+</resources>
